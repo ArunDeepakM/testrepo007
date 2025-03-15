@@ -1,2 +1,4 @@
 my file A
 hello world
+my another line 1
+my another line 2
