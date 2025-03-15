@@ -1,4 +1,6 @@
 my file A
 hello world
+My third line
+My fourth line
 my another line 1
 my another line 2
